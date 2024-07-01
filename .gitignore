@@ -1,0 +1,9 @@
+.venv
+.env
+core
+main.py
+secao02/secao02
+token.git.hub
+secao06/core
+secao06/.venv
+secao06/main.py
